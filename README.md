@@ -14,9 +14,9 @@ Welcome to the Arabic Location Data repository! Here, you will find JSON files t
 
 ## Data Files
 
-- **countries_ar.json:** JSON file containing information about countries in Arabic.
-- **states_ar.json:** JSON file containing information about states or provinces in Arabic.
-- **cities_ar.json:** JSON file containing information about cities in Arabic.
+- **formatted_countries.json:** JSON file containing information about countries in Arabic.
+- **formatted_states.json:** JSON file containing information about states or provinces in Arabic.
+- **formatted_cities.json:** JSON file containing information about cities in Arabic.
 
 Feel free to explore and use the data according to your project's needs.
 
